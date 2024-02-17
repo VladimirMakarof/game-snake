@@ -22,12 +22,12 @@ This game allows players to control a snake using arrow keys on their keyboard. 
 
 ## Demo
 
-You can play the game online [here]([link-to-your-game](https://vladimirmakarof.github.io/game-snake/)).
+You can play the game online [here](https://vladimirmakarof.github.io/game-snake/).
+
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/snake-game.git
-](https://github.com/VladimirMakarof/game-snake)https://github.com/VladimirMakarof/game-snake
+git clone https://github.com/VladimirMakarof/game-snake.git
